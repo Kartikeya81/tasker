@@ -1,4 +1,4 @@
-# Full-Stack Project Name
+# Tasker
 
 ## Overview
 This is a full-stack web application built using **Node.js**, **Express.js**, and **React**, with **MongoDB** as the database. It follows best practices for environment variable management and Git workflows.
